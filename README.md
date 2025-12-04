@@ -3,7 +3,7 @@
 This project demonstrates how to validate a user form using HTML, CSS, and Vanilla JavaScript.
 It checks the correctness of user inputs before submitting the form and displays meaningful error messages.
 
-🚀 Features
+🚀 Features:
 
 ✔️ Real-time input validation
 
